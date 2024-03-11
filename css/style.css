@@ -1,0 +1,48 @@
+header {
+    background-color: #660b0b;
+    height: 10vh;
+    color: white;
+    text-align: center;
+}
+#pizzaria{
+        font-family: "Freehand", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 7vh;  
+        margin-bottom: 1vh;
+}
+
+#item{
+    background-color: rgb(197, 197, 197);
+    height: 65vh;
+}
+
+footer{
+    background-color: rgb(31, 31, 31);
+    color: white;
+    font-size: 2vh;
+    height: 25vh;  
+}
+
+h2{
+    font-weight: bold;
+    font-size: 3vh;
+    margin-top: 3vh;
+}
+
+#link{
+    text-align: right;
+}
+
+#pizzas{
+    text-align: center;
+    margin-top: 20vh;
+}
+
+.col-1{
+    margin-top: 4vh;
+}
+
+nav{
+    margin: 1vh;
+}
